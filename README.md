@@ -12,19 +12,9 @@ To install vAnticheat-Client on your GTA SA-MP server, follow these steps:
 
 2. **Extract Files:** Extract the downloaded files to your GTA San Andreas installation folder. Ensure that the files are placed within the SA-MP folder.
 
-3. **Configuration:** Open the `config.ini` file to configure vAnticheat-Client settings according to your server requirements.
+3. **Launch GTA SA-MP:** Start your GTA SA-MP game as you normally would. vAnticheat-Client will automatically run in the background.
 
-4. **Launch GTA SA-MP:** Start your GTA SA-MP game as you normally would. vAnticheat-Client will automatically run in the background.
 
-## Configuration
-
-The `config.ini` file provides customization options for vAnticheat-Client. Here are some key configurations:
-
-- **Detection Levels:** Adjust the sensitivity of cheat detection by modifying the detection levels in the configuration file.
-
-- **Logging:** Enable or disable logging features to keep track of detected cheating incidents.
-
-- **Notifications:** Configure how players are notified when a cheat is detected, whether through in-game messages or other means.
 
 ## Reporting Issues
 
